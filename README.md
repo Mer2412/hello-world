@@ -1,2 +1,2 @@
 # hello-world
-Class test repo
+Hello my name is Victor. I'm studying computer engineering.
